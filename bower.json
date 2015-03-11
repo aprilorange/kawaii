@@ -1,0 +1,22 @@
+{
+  "name": "kawaii",
+  "homepage": "https://github.com/kchanzen/kawaii",
+  "authors": [
+    "Kchan Zen <kchanzen@gmail.com>"
+  ],
+  "description": "made for love",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.0.0",
+  "keywords": [
+    "framework",
+    "kawaii",
+    "cute"
+  ]
+}
