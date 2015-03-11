@@ -1,0 +1,11 @@
+{
+  "name": "kawaii",
+  "version": "0.1.0",
+  "description": "made for love",
+  "main": "dist/js/kawaii.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kchan Zen <kchanzen@gmail.com> (http://www.kchanzen.com/)",
+  "license": "MIT"
+}
