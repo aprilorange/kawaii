@@ -42,6 +42,7 @@ gulp.task 'stylus', ->
 gulp.task 'swig', ->
 	gulp.src paths.swig
 		.pipe swig
+      cache: false
 			defaults:
 				locals:
 					time: new Date().getTime()
