@@ -2,10 +2,20 @@
   "name": "kawaii",
   "version": "0.1.0",
   "description": "made for love",
-  "main": "dist/js/kawaii.js",
+  "main": "dist/css/kawaii.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kchan Zen <kchanzen@gmail.com> (http://www.kchanzen.com/)",
-  "license": "MIT"
+  "author": "April Orange <aprilorange.net@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylus": "^2.0.6",
+    "gulp-swig": "^0.7.4",
+    "gulpc": "^0.1.2",
+    "nib": "^1.1.0"
+  }
 }

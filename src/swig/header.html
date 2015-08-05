@@ -1,0 +1,15 @@
+{% raw %}
+<script id="header-tpl" type="text/template">
+  <nav class="navbar navbar-default">
+    <div class="container">
+      <h1 class="brand"><a href="#/home">Kawaii</a></h1>
+      <ul class="nav">
+        <li> <a href="#/home"{% if tab == 'home' %} class="active"{% endif %}>Home</a></li>
+        <li><a href="#">CSS</a></li>
+        <li><a href="#">Component</a></li>
+        <li><a href="#">JavaScript</a></li>
+      </ul>
+    </div>
+  </nav>
+</script>
+{% endraw %}

@@ -1,14 +1,12 @@
 # Kawaii
 
-The principle of design is Kawaii first, everything pluggable.
+The principle of design is Kawaii first.
 
-## Todos
+## Changelog
 
-- [x] Have a position on Bower
-- [ ] Complete CSS part before 0.9.0
-- [ ] Slidebar and Nav effects when 1.0.0
-- [ ] Modal and Tip when 1.0.1
+- 2015/08/05 Prototype.
+- 2015/03/11 Created.
 
 ## License
 
-[MIT](LICENSE).
+[MIT](/LICENSE).
